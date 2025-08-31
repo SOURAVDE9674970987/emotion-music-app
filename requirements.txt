@@ -4,6 +4,7 @@ pillow
 numpy
 pandas
 deepface==0.0.79
-retinaface==0.0.13
+retinaface==1.1.1
 tensorflow-cpu==2.15.0
 keras==2.15.0
+
